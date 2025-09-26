@@ -1,7 +1,3 @@
-# Script de déploiement automatique d'une application Python
-# Auteur: Assistant Claude
-# Version: 1.0
-
 set -e  # Arrêter le script en cas d'erreur
 
 # Couleurs pour les messages
