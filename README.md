@@ -33,11 +33,11 @@ cd auto-deploy
 ```
 2. Rendre le script exécutable
 ```bash
-chmod +x deploy_flask.sh
+chmod +x deploy.sh
 ```
 3. Lancer le script :
 ```bash
-./deploy_flask.sh
+./deploy.sh
 ```
 4. Suivre les instructions affichées à l’écran et renseigner les informations demandées (nom du projet, domaine, fichier principal, instance Flask).
 
